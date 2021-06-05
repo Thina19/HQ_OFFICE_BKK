@@ -1,0 +1,50 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = HQ OFFICE BKK
+
+## Skin
+
+### Button
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+Button_BAFF9AB7_AC6D_3778_41DD_EF9D1C21D15E.label = FLOOR PLAN
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.21vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.21vw;"><B><I>HQ OFFICE BKK</I></B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_C5503D9E_DBD2_F881_41D5_6BD5A5F5F9DF.label = 2F_View_B
+panorama_C5B469D2_DBD7_F880_41CC_A06753292237.label = 2F_View_A
+panorama_C6852FF5_DBD2_7880_41D3_81E8AA9DFE94.label = 2F_View_C
+panorama_C68F3794_DBD2_8881_41C6_0F04D9A84A58.label = 2F_View_D
+panorama_CF9A0D49_DAD7_F9C5_41B6_C8BB01DD1261.label = 0M_View_D
+panorama_D5433F02_DADE_992F_41BA_E92325E3662D.label = 0M_View_A
+panorama_D7503B91_DADE_992D_41D4_40E1065D0D64.label = 1F_View_A
+panorama_D7509550_DADE_892C_41D2_9858CF51217D.label = 1M_View_B
+panorama_D7509BA2_DADE_B96C_41EB_346173B99AFA.label = 1M_View_A
+panorama_D750A205_DADE_8B34_41E4_D0716FDA5E71.label = 1F_View_E
+panorama_D750AEDA_DADE_98DC_41DF_0BF8A7CAEF94.label = 1M_View_C
+panorama_D750B4E6_DADE_88F4_41A1_FDA6F62AED6A.label = 1F_View_B
+panorama_D750B8E1_DADE_78EF_41E3_33A5980DB2EA.label = 1M_View_D
+panorama_D750C7B7_DADE_8954_41CB_D4B84FFE9A15.label = 1F_View_D
+panorama_D750EEA5_DADE_FB75_41CD_1EAB26EFD8DB.label = 1F_View_C
+panorama_D7516205_DADE_8B34_41C2_308EDC472BF9.label = 0M_View_C
+panorama_D7534C8F_DADD_FF33_41D8_1EEBFFC9BE54.label = 3F_View_C
+panorama_D7539344_DADD_8934_41B6_C2407A9B3F9B.label = 3F_View_B
+panorama_D753B9F4_DADD_98D5_41E4_150548C9E49C.label = 3F_View_A
+panorama_D75408DA_DADE_B8DC_41CE_53F8881F4E4A.label = 0M_View_B
+
+## Action
+
+### URL
+LinkBehaviour_FD00D868_DBD2_987D_41E6_DE401CFA1581.source = https://www.linkedin.com/company/cmedcc/
+LinkBehaviour_FD033868_DBD2_987D_41E8_432D9C277B75.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
